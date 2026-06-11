@@ -100,6 +100,22 @@ saas-revenue-churn-analysis/
 │
 └── README.md
 ```
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](images/executive_overview.png)
+
+### Customer Churn Analysis
+![Customer Churn Analysis](images/customer_churn_analysis.png)
+
+### Churn Drivers Analysis
+![Churn Drivers Analysis](images/churn_drivers_analysis.png)
+
+### Revenue & Unit Economics
+![Revenue & Unit Economics](images/revenue_unit_economics.png)
+
+### Customer Health
+![Customer Health](images/customer_health.png)
 ## Workflow
 ### Data Import
 - Imported and explored raw datasets
