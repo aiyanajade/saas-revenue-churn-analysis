@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
